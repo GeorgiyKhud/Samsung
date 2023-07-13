@@ -1,0 +1,7 @@
+#define wifi_ssid     "************" // имя роутера
+#define wifi_pass     "**********" // пароль роутера
+#define mqtt_client   "mqtt-oren_khgo-vzhsvl1" 
+#define mqtt_server   "192.168.0.3" // ip адрес
+#define mqtt_port     1883 // порт
+#define mqtt_login    ""
+#define mqtt_pass     ""
